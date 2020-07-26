@@ -1,4 +1,4 @@
-<center><h1 align="center">Stripe menu clone</h1></center>
+<center><h1 align="center">Stripe menu clone 💸</h1></center>
 
 ![Alt Text](https://imgur.com/yvG534L.gif)
 
